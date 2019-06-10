@@ -2,7 +2,7 @@
 
 <h2>Here is a list of my 10 completed modulars:</h2>
 
-<h4>khan academy:</h4>
+<h2>khan academy:</h2>
 <h5><ul>
 <li>Algorithms</li>
 <li>Intro to JS</li>
