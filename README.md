@@ -4,7 +4,7 @@
 
 <h4>khan academy:</h4>
 <h6><ul>
-<li>color: rgb(0, 232, 15);Algorithms</li>
+<li>colour: rgb(0, 232, 15);Algorithms</li>
 <li>Intro to JS</li>
 <li>Intro to HTML/CSS</li>
 <li>Intro to SQL</li>
