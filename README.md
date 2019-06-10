@@ -1,6 +1,6 @@
-<!DOCTYPE html>
+
 <html>
-  font-style: italic;
+  font-family: sans-serif;
   <h1>Welcome to my portfolio</h1>
 
   font-family: monospace;
