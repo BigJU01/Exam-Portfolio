@@ -20,3 +20,7 @@
   <li>Debugging</li>
   <li>Basic Algorithm Scripting</li>
 </ul></h6>
+
+<h2>Summary's for 10 modulars:</h2>
+<h4>Algorithms, what i learned and what ill continue to use:</h4>
+<p></p>
