@@ -2,8 +2,8 @@
 
 <h2>Here is a list of my 10 completed modulars:</h2>
 
-<h2>khan academy:</h2>
-<h5><ul>
+<h4>khan academy:</h4>
+<h6><ul>
 <li>Algorithms</li>
 <li>Intro to JS</li>
 <li>Intro to HTML/CSS</li>
@@ -12,7 +12,7 @@
 <li>Natural Simulations</li>
 <li>Making webpages interactive</li>
 <li>Making webpages interactive with jQuery</li>
-</ul></h5>
+</ul></h6>
 
 <h4>Free code camp:</h4>
 <h5>Project: Roman Numeral Converter
