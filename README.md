@@ -4,7 +4,7 @@
 
 <h4>khan academy:</h4>
 <h6><ul>
-<li>Algorithms</li>
+<li>color: rgb(0, 232, 15);Algorithms</li>
 <li>Intro to JS</li>
 <li>Intro to HTML/CSS</li>
 <li>Intro to SQL</li>
@@ -16,7 +16,7 @@
 
 <h4>Free code camp:</h4>
 <h6>
-  Project: Roman Numeral Converter<br>
+  Project: Roman Numeral Converter
 <ul>
   <li>Debugging</li>
   <li>Basic Algorithm Scripting</li>
