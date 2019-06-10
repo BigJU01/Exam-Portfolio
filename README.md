@@ -16,9 +16,8 @@
 
 <h4>Free code camp:</h4>
 <h6>
-  Project: Roman Numeral Converter
+  Project: Roman Numeral Converter<br>
 <ul>
-  
   <li>Debugging</li>
   <li>Basic Algorithm Scripting</li>
 </ul></h6>
