@@ -23,4 +23,4 @@
 
 <h2>Summary's for 10 modulars:</h2>
 <h4>Algorithms, what i learned and what ill continue to use:</h4>
-<p></p>
+<p>From the algorithms program I learned things like, different types of sorting like quick sort, merge sort, etc.<br>Other important things i learned include binary search, which is an effective searching method that halves the search space each time, as well as asymptotic notation, which teaches how to describe the efficiency of an algorithm and asymptotic notation, big O, big Theta and big Omega, which are used to more precisely describe the efficiency. The main thing I will continue to use from the algorithms course is the graph representation section, which teaches useful concepts that can be used in real life such as, describing and representing graphs.</p>
