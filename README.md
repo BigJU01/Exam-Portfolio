@@ -59,11 +59,11 @@
 <h2>Summative: Cube Wave by Bees and Bombs</h2>
 <p>Those are the modulars I completed, lastly touching back on my summative I did with Ben and Erik, we made our own versions of a cube wave. Our versions was made by the foundation made by Dan Shiffman on youtube. We took the basic version he made added our own spin on it like making algorithmic and object oriented changes to it. Then we proceeded to present the concept of a cube wave and our versions to our peers. Like a replication of Shiffman's video, esstentially it was like we were Shiffman presenting a coding challenge to coders.</p>
 
-<h6><a target="_blank" href="https://github.com/BigJU01/Exam-Portfolio/blob/master/Algorithm.PNG">Algorithms project</h6>
+<h6><a target="_blank" href="https://github.com/BigJU01/Exam-Portfolio/blob/master/Algorithm.PNG">Algorithms project
 <h6><a target="_blank" href="https://github.com/BigJU01/Exam-Portfolio/blob/master/JS.gif">JS project
 <h6><a target="_blank" href="https://github.com/BigJU01/Exam-Portfolio/blob/master/HTML.gif">HTML/CSS project
 <h6><a target="_blank" href="https://github.com/BigJU01/Exam-Portfolio/blob/master/SQL.gif">SQL project
 <h6><a target="_blank" href="https://github.com/BigJU01/Exam-Portfolio/blob/master/games%20%26%20vis.gif">Games and Visualizations project
 <h6><a target="_blank" href="https://github.com/BigJU01/Exam-Portfolio/blob/master/Natural%20Simulations.gif">Natural Simulations project
 <h6><a target="_blank" href="https://github.com/BigJU01/Exam-Portfolio/blob/master/JQuery.gif">Making webpages interactive with jQuery project
-<h6><a target="_blank" href="https://www.freecodecamp.org/junaid01">free code camp work</h6>
+<h6><a target="_blank" href="https://www.freecodecamp.org/junaid01">free code camp work
