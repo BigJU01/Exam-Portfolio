@@ -66,4 +66,4 @@
 <h6><a target="_blank" href="https://github.com/BigJU01/Exam-Portfolio/blob/master/games%20%26%20vis.gif">Games and Visualizations project</h6>
 <h6><a target="_blank" href="https://github.com/BigJU01/Exam-Portfolio/blob/master/Natural%20Simulations.gif">Natural Simulations project</h6>
 <h6><a target="_blank" href="https://github.com/BigJU01/Exam-Portfolio/blob/master/JQuery.gif">Making webpages interactive with jQuery project</h6>
-<h6><a target="_blank" href="https://www.freecodecamp.org/junaid01">free code camp work
+<h6><a target="_blank" href="https://www.freecodecamp.org/junaid01">free code camp work</h6>
