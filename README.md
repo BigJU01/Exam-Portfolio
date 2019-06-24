@@ -45,3 +45,10 @@
 
 <h4>Making webpages interactive with jQuery</h4>
 <p>Making webpages interactive with jQuery expands on what was learned in "Making webpages interactive". It introduces a new concept jQuery and teaches you how to use it and CSS selectors to access the DOM. Overall it teaches you to access the previously mentioned DOM properties (DOM access methods, DOM modification, DOM events and DOM animation) with jQuery. Since most of the course is an expansion on the previous I found the most signiffcant lesson to be jQuery techniques, since it isint an expansion but a fully new concept. The other lessons show an alternate way of accessing the DOM this lesson shows the usefulness and uniqueness of jQuery, so it gives a real insight into why youd use it in cases as opposed to JS (previous section). For the the future id like to remember JQuery as a whole, not all the concepts and uses but remember that it is an alternate way to make webages interactive.
+
+<h4>free code camp Project: Roman Numeral Converter</h4>
+<p>quick touch on free conde camp project even though it *is not* a modular. used concepts from prior years and khan academy to make a functioning Roman Numeral Converter.</p>
+
+<h4>Debugging</h4>
+<p>I did 2 modulars on free code camp, the first being debugging. not mcuh to say about this one already knew debugging methods from khan academy in prior years. Still it was a good refresher and the methods were different so it was a good experince learning other ways to debug. It was signifficant because debugging is an extremly useful tool for solving issues with code by yourself. I will add this method of debugging to the ones i already know and in the future when I come across code that isint working apply this version or another to solve the issue or attempt to on my own. Very useful not only because it resolves issues in code also shows the errors and when you use debugging to fix them you learn how to write the lines of code correctly for the next time you use that code.</p>
+
