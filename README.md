@@ -1,27 +1,28 @@
-<h1>Welcome to my portfolio</h1>
+<h1><strong>Welcome to my portfolio</strong></h1>
 
-<h2>Here is a list of my 10 completed modulars:</h2>
+<h2><strong>Here is a list of my 10 completed modulars:</strong></h2>
 
-<h4>khan academy:</h4>
+<h4><strong>khan academy:</strong></h4>
 <h6><ul>
-<li>Algorithms</li>
-<li>Intro to JS</li>
-<li>Intro to HTML/CSS</li>
-<li>Intro to SQL</li>
-<li>Games & Visualizations</li>
-<li>Natural Simulations</li>
-<li>Making webpages interactive</li>
-<li>Making webpages interactive with jQuery</li>
+<li><em>Algorithms</em></li>
+<li><em>Intro to JS</em></li>
+<li><em>Intro to HTML/CSS</em></li>
+<li><em>Intro to SQL</em></li>
+<li><em>Games & Visualizations</em></li>
+<li><em>Natural Simulations</em></li>
+<li><em>Making webpages interactive</em></li>
+<li><em>Making webpages interactive with jQuery</em></li>
 </ul></h6>
 
-<h4>Free code camp:</h4>
+<h4><strong>Free code camp:</strong></h4>
 <h6>Project: Roman Numeral Converter</h6>
 <h6><ul>
-  <li>Debugging</li>
-  <li>Basic Algorithm Scripting</li>
+  <li><em>Debugging</em></li>
+  <li><em>Basic Algorithm Scripting</em></li>
 </ul></h6>
 
-<h2>Summary's for 10 modulars:</h2>
+<h2><strong>Summary's for 10 modulars:</strong></h2>
+
 <h4>Algorithms</h4>
 <p>From the algorithms program I learned things like, different types of sorting like quick sort, merge sort, etc.<br>Most important aspect I learned binary search, which is an effective searching method that halves the search space each time, as well as asymptotic notation, which teaches how to describe the efficiency of an algorithm and asymptotic notation, big O, big Theta and big Omega, which are used to more precisely describe the efficiency.<br>The main thing I will continue to use from the algorithms course is the graph representation section, which teaches useful concepts that can be used in real life such as, describing and representing graphs.</p>
 
@@ -52,3 +53,8 @@
 <h4>Debugging</h4>
 <p>I did 2 modulars on free code camp, the first being debugging. not mcuh to say about this one already knew debugging methods from khan academy in prior years. Still it was a good refresher and the methods were different so it was a good experince learning other ways to debug. It was signifficant because debugging is an extremly useful tool for solving issues with code by yourself. I will add this method of debugging to the ones i already know and in the future when I come across code that isint working apply this version or another to solve the issue or attempt to on my own. Very useful not only because it resolves issues in code also shows the errors and when you use debugging to fix them you learn how to write the lines of code correctly for the next time you use that code.</p>
 
+<h4>Basic Algorithm Scripting</h4>
+<p>The other modular on free code camp is Basic Algorithm Scripting, again not to much to be said for this, used previously learned JS concepts to complete. most challenges were easy to complete as they were similar to things taught over on khan academy, a few were confusing or slightly different still not to much trouble, with what I knew I was able to complete them with not much struggle. I taught the whole section was signifficant as it reintroduced important JS concepts as well as some I hadint explored and since JS is such an important concept for programmers this section even as a refresher is worth going through to expand and keep JS concepts fresh in your head. As this is just JS concepts essentially I will be trying to keep in mind as many concepts from this section in my head for the future, like wise with the ones from khan academy since JS concepts are incredibly important for computer programmers.</p>
+
+<h2>Summative: Cube Wave by Bees and Bombs</h2>
+<p>Those are the modulars I completed, lastly touching back on my summative I did with Ben and Erik, we made our own versions of a cube wave. Our versions was made by the foundation made by Dan Shiffman on youtube. We took the basic version he made added our own spin on it like making algorithmic and object oriented changes to it. Then we proceeded to present the concept of a cube wave and our versions to our peers. Like a replication of Shiffman's video, esstentially it was like we were Shiffman presenting a coding challenge to coders.</p>
