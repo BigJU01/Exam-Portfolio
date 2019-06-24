@@ -59,4 +59,4 @@
 <h2>Summative: Cube Wave by Bees and Bombs</h2>
 <p>Those are the modulars I completed, lastly touching back on my summative I did with Ben and Erik, we made our own versions of a cube wave. Our versions was made by the foundation made by Dan Shiffman on youtube. We took the basic version he made added our own spin on it like making algorithmic and object oriented changes to it. Then we proceeded to present the concept of a cube wave and our versions to our peers. Like a replication of Shiffman's video, esstentially it was like we were Shiffman presenting a coding challenge to coders.</p>
 
-<h1>free code camp work: https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter</h1>
+<h1>free code camp work: https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter</h1>l
