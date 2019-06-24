@@ -60,4 +60,6 @@
 <p>Those are the modulars I completed, lastly touching back on my summative I did with Ben and Erik, we made our own versions of a cube wave. Our versions was made by the foundation made by Dan Shiffman on youtube. We took the basic version he made added our own spin on it like making algorithmic and object oriented changes to it. Then we proceeded to present the concept of a cube wave and our versions to our peers. Like a replication of Shiffman's video, esstentially it was like we were Shiffman presenting a coding challenge to coders.</p>
 
 <h6>free code camp work: https://www.freecodecamp.org/junaid01</h6>
-<h6>https://github.com/BigJU01/Exam-Portfolio/blob/master/JS.gif</h6>
+<h6>JS project:https://github.com/BigJU01/Exam-Portfolio/blob/master/JS.gif</h6>
+<h6>Algorithms project:https://github.com/BigJU01/Exam-Portfolio/blob/master/Algorithm.PNG</h6>
+<h6>HTML/CSS project:https://github.com/BigJU01/Exam-Portfolio/blob/master/HTML.gif</h6>
